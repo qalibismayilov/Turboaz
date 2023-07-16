@@ -22,7 +22,7 @@
         <Button x:Name="add" Content="Add" HorizontalAlignment="Left" Margin="231,195,0,0" VerticalAlignment="Top" Height="32" Width="47" Click="Button_Click" Grid.Row="2"/>
         <Button Content="Delete" HorizontalAlignment="Left" Margin="292,195,0,0" VerticalAlignment="Top" Height="32" Width="47" Grid.Row="2" Click="Button_Click_1"/>
         <Button Content="Show" HorizontalAlignment="Left" Margin="353,195,0,0" VerticalAlignment="Top" Height="32" Width="47" Grid.Row="2"/>
-        <Button Content="Update" HorizontalAlignment="Left" Margin="412,195,0,0" VerticalAlignment="Top" Height="32" Width="47" Grid.Row="2"/>
+        <Button Content="Show" HorizontalAlignment="Left" Margin="474,222,0,0" VerticalAlignment="Top" Height="32" Width="47" Grid.Row="2"/>
 
     </Grid>
 </Window>
